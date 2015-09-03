@@ -21,7 +21,7 @@
 3|2014年末测试|综艺|2015/06/12| |毒杀|
 4|如果这里改正的话就能得到成长|综艺|2015/07/05| |毒杀|
 5|新春狐狸祭SSA|演唱会|2015/08/21| |RCATMETAL 毒杀 徐行 K-Metal HELLO Firebet|
-6|TBS NEWS23|新闻访谈|2015/08/21| |Hans 毒杀 Leoean|
+6|TBS NEWS23|新闻访谈|2015/08/21| |Hans 毒杀 Firebet|
 7|BABYMETAL's Guide To America|新闻访谈|2015/08/22| |Leoean Kenny Hans|
 8|Louder Noise(ROR&Fans)|新闻访谈|2015/08/31| |毒杀 Leoean|
 9|We want to teach Metallica dance(NME.COM)|新闻访谈|2015/09/01| |Leoean Hans 毒杀 S-Metal|
