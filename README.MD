@@ -18,12 +18,14 @@
 序号|任务|类型|完成日期|视频地址|参与人员|
 -----|------|-----|------------|-----------|----------|
 1|2014世界巡回演唱会|演唱会|2015/05/21|[B站](http://www.bilibili.com/video/av2347484/)|RCATMETAL K-Metal|
-2|LoGirl#1|综艺|2015/06/06| |毒杀 K-Metal Z-トマトくん |
-3|2014年末测试|综艺|2015/06/12| |毒杀|
-4|如果这里改正的话就能得到成长|综艺|2015/07/05| |毒杀|
-5|新春狐狸祭SSA|演唱会|2015/08/21| |RCATMETAL 毒杀 徐行 K-Metal HELLO Firebet|
-6|TBS NEWS23|新闻访谈|2015/08/21| |Hans 毒杀 Firebet|
-7|BABYMETAL's Guide To America|新闻访谈|2015/08/22| |Leoean Kenny Hans|
-8|Louder Noise(ROR&Fans)|新闻访谈|2015/08/31| |毒杀 Leoean|
-9|We want to teach Metallica dance(NME.COM)|新闻访谈|2015/09/01| |Leoean Hans 毒杀 S-Metal|
-10|樱花学院2014毕业式|演唱会|2015/09/01| |千本风娘 徐行 Hello MITHA Firebet|
+2|LoGirl#1|综艺|2015/06/06|[B站](http://www.bilibili.com/video/av2407707/)|毒杀 K-Metal Z-トマトくん |
+3|2014年末测试|综艺|2015/06/12|[B站](http://www.bilibili.com/video/av2428789/)|毒杀|
+4|如果这里改正的话就能得到成长|综艺|2015/07/05|[B站](http://www.bilibili.com/video/av2530239/)|毒杀|
+5|新春狐狸祭SSA|演唱会|2015/08/21|[B站](http://www.bilibili.com/video/av2776414/)|RCATMETAL 毒杀 徐行 K-Metal HELLO Firebet|
+6|TBS NEWS23|新闻访谈|2015/08/21|[B站](http://www.bilibili.com/video/av2779588/)|Hans 毒杀 Firebet|
+7|BABYMETAL's Guide To America|新闻访谈|2015/08/22|[B站](http://www.bilibili.com/video/av2784132/)|Leoean Kenny Hans|
+8|Louder Noise(ROR&Fans)|新闻访谈|2015/08/31|[B站](http://www.bilibili.com/video/av2830961/)|毒杀 Leoean|
+9|We want to teach Metallica dance(NME.COM)|新闻访谈|2015/09/01|[B站](http://www.bilibili.com/video/av2847428/)|Leoean Hans 毒杀 S-Metal|
+10|樱花学院2014毕业式|演唱会|2015/09/01|[B站](http://www.bilibili.com/video/av2841620/)|千本风娘 徐行 Hello MITHA Firebet|
+11|R&L Gigwise|新闻访谈|2015/09/04|[B站](http://www.bilibili.com/video/av2862420/)|kenny 毒杀 Leoean|
+12|Catch the world TBS|新闻访谈|2015/09/04|[B站](http://www.bilibili.com/video/av2860135/)|毒杀 Firebet|
