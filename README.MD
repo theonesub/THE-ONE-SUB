@@ -6,7 +6,7 @@
 2|2012年末测试字幕|听译|毒杀|短特效字幕|毒杀| |[密码: j9qr](http://pan.baidu.com/s/1pJACk8V)|
 3|吉田爽叶香日志|核对|毒杀|长文章翻译|firebet|简单！|群文件|
 4|金属抗争用语词典|字译| |长文章翻译|kenny| |群文件|
-5|十番胜负|字译|protoss|长文章翻译|Leoean| |[密码: 2gdg](http://pan.baidu.com/s/1i30EVZJ) |
+5|十番胜负|字译|protoss|长文章翻译|Leoean|待校对 |[密码: 2gdg](http://pan.baidu.com/s/1i30EVZJ) |
 6|LoGirl#7|听译|hello |普通字幕|千本风娘| | |
 7|BOH博客|核对| |中文章翻译|kenny|简单|群文件|
 8|2012毕业祭|听译| |演唱会字幕|千本风娘|延期中| |
